@@ -1,7 +1,7 @@
 # Question 3(i)
 #  Write a Python program that prompts a user to enter numbers. The process will repeat until
 #  the user enters 0. Finally, the program prints sum of the numbers entered by the user.
-# number = int(input("Enter a given number: "))
+number = int(input("Enter a given number: "))
 run = 1
 sum = 0
 
